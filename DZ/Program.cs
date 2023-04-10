@@ -20,7 +20,7 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 
-Console.Write("Введите количество эллементов: ");
+Console.Write("Введите количество элементов: ");
 int size = Convert.ToInt32(Console.ReadLine());
 
 string []  СreateArray()
